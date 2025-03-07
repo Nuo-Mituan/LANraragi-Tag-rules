@@ -1,7 +1,6 @@
 # LANraragi Tag rules 项目的翻译数据。
 
-[![Build status](../../workflows/build/badge.svg)](../../actions)
-[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
+
 
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.fly.dev/database/~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
 

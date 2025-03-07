@@ -21,4 +21,4 @@
 
 ## 使用翻译
 
-用户可通过LANraragi Tag rules（标签规则）使用本数据库的翻译，也可以通过 [EhTagTranslation译本数据库](https://github.com/EhTagTranslation/Database)向本数据库贡献翻译内容。
+用户可通过 [LANraragi](https://github.com/Difegue/LANraragi) Tag rules（标签规则）使用本数据库的翻译，也可以通过 [EhTagTranslation译本数据库](https://github.com/EhTagTranslation/Database)向本数据库贡献翻译内容。

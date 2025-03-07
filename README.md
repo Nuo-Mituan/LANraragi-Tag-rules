@@ -16,6 +16,7 @@
 [![cosplayer](https://img.shields.io/endpoint?color=olive&url=https://ehtt.fly.dev/database/cosplayer/~badge)](https://ehtt.vercel.app/list/cosplayer)
 [![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.fly.dev/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
 [![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.fly.dev/database/character/~badge)](https://ehtt.vercel.app/list/character)
+[![LANraragi](https://github.com/Difegue/LANraragi)](https://ehtt.vercel.app/list/character)
 
 
 

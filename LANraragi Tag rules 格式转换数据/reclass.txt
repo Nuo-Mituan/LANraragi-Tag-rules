@@ -1,5 +1,5 @@
-| doujinshi | 同人志
-| manga | 漫画
+category:doujinshi | 同人志
+category:manga | 漫画
 | artistcg | 画师CG
 | gamecg | 游戏CG
 | non-h | 无H

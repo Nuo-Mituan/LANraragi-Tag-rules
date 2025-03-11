@@ -56,7 +56,6 @@ tag:rough grammar -> tag:语法差
 tag:rough translation -> tag:渣翻
 tag:kodomo only -> tag:仅儿童
 tag:no penetration -> tag:无插入
-tag:nudism -> tag:裸体主义
 tag:nudity only -> tag:仅裸体
 tag:object insertion only -> tag:仅物体插入
 tag:onsen -> tag:温泉

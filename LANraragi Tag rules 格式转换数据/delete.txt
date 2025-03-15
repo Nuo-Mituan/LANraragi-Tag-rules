@@ -777,6 +777,6 @@ tag:姐妹丼 -> tag:手足丼
 -grandfather
 -uncle
 -low shotacon
-language:chinese -> language:中国翻訳
-category:doujinshi -> category:同人志
-category:manga -> category:漫画
+language:chinese => language:中国翻訳
+category:doujinshi => category:同人志
+category:manga => category:漫画

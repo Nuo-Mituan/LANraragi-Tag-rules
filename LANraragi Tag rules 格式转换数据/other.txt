@@ -59,3 +59,4 @@ tag:no penetration => tag:无插入
 tag:nudity only => tag:仅裸体
 tag:object insertion only => tag:仅物体插入
 tag:onsen => tag:温泉
+tag:classroom => tag:教室

@@ -60,3 +60,7 @@ tag:nudity only => tag:仅裸体
 tag:object insertion only => tag:仅物体插入
 tag:onsen => tag:温泉
 tag:classroom => tag:教室
+tag:bathing room => tag:浴室
+tag:beach => tag:沙滩
+tag:infirmary => tag:保健室
+tag:sentou => tag:浴场
